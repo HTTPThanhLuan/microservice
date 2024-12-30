@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Dd2M4uugf6XfGr3nf4rY3dGj43GWWj3AykLukA/MfR8=",
+  "Source": "Second.ApiService",
+  "BasePath": "_content/Second.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

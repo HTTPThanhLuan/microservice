@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kuLQ+S+K6P1pSzuaFj5xWy5eNhrVFZ6DB5jJvyttzPA=",
+  "Source": "Yarp.Gateway",
+  "BasePath": "_content/Yarp.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

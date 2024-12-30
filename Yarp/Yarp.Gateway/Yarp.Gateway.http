@@ -1,0 +1,6 @@
+@Yarp.Gateway_HostAddress = https://localhost:8081
+
+GET {{Yarp.Gateway_HostAddress}}/first-api/hello
+Accept: application/json
+
+###

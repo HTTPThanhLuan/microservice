@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thanh\\Project\\Yarp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\yarp\\yarp.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\yarp\\yarp.gateway\\yarp.gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\yarp.gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4E9696-388E-4A03-847D-2ED10FD596B6}|Yarp.Api\\Yarp.Api.csproj|c:\\users\\thanh\\project\\yarp\\yarp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4E9696-388E-4A03-847D-2ED10FD596B6}|Yarp.Api\\Yarp.Api.csproj|solutionrelative:yarp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\yarp\\yarp.gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\yarp\\yarp.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4E9696-388E-4A03-847D-2ED10FD596B6}|Yarp.Api\\Yarp.Api.csproj|c:\\users\\thanh\\project\\yarp\\yarp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE4E9696-388E-4A03-847D-2ED10FD596B6}|Yarp.Api\\Yarp.Api.csproj|solutionrelative:yarp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11EC840-8217-4A46-BF92-E37B6DF06CB7}|docker-compose.dcproj|c:\\users\\thanh\\project\\yarp\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F11EC840-8217-4A46-BF92-E37B6DF06CB7}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11EC840-8217-4A46-BF92-E37B6DF06CB7}|docker-compose.dcproj|c:\\users\\thanh\\project\\yarp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F11EC840-8217-4A46-BF92-E37B6DF06CB7}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4E9696-388E-4A03-847D-2ED10FD596B6}|Yarp.Api\\Yarp.Api.csproj|c:\\users\\thanh\\project\\yarp\\yarp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE4E9696-388E-4A03-847D-2ED10FD596B6}|Yarp.Api\\Yarp.Api.csproj|solutionrelative:yarp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\yarp\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\yarp\\yarp.gateway\\yarp.gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2512F828-A96C-4D4F-B79C-67B031194B69}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\yarp.gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1252049909:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-30T19:57:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Yarp.Gateway",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Yarp.Gateway.csproj",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Yarp.Gateway.csproj",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Yarp.Gateway.csproj",
+              "RelativeToolTip": "Yarp.Gateway\\Yarp.Gateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T19:54:03.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\appsettings.json*",
+              "RelativeToolTip": "Yarp.Gateway\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAxwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T19:50:14.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-30T19:45:57.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Dockerfile",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Dockerfile",
+              "RelativeToolTip": "Yarp.Gateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-30T19:45:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Yarp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Api\\appsettings.json",
+              "RelativeToolTip": "Yarp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T19:45:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Yarp.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Api\\Dockerfile",
+              "RelativeToolTip": "Yarp.Api\\Dockerfile",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-30T19:44:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-30T19:42:16.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Program.cs",
+              "RelativeToolTip": "Yarp.Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:41:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yarp.Gateway.http",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Yarp.Gateway.http",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Yarp.Gateway.http",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Gateway\\Yarp.Gateway.http",
+              "RelativeToolTip": "Yarp.Gateway\\Yarp.Gateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-30T19:41:06.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Yarp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Api\\Program.cs",
+              "RelativeToolTip": "Yarp.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:40:22.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

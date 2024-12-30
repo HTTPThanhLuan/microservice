@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529F3C45-DC8F-4C0C-B85B-4C1D6B9733F3}|Solution Items{529F3C45-DC8F-4C0C-B85B-4C1D6B9733F3}|C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{529F3C45-DC8F-4C0C-B85B-4C1D6B9733F3}|Solution Items{529F3C45-DC8F-4C0C-B85B-4C1D6B9733F3}|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2DB95-E5B4-4AA0-B541-FB1A6692CD25}|First.ApiService\\First.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\first.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03A2DB95-E5B4-4AA0-B541-FB1A6692CD25}|First.ApiService\\First.ApiService.csproj|solutionrelative:first.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\second.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|solutionrelative:second.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\yarp.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\yarp.gateway\\yarp.proxy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\yarp.proxy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\second.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|solutionrelative:second.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2DB95-E5B4-4AA0-B541-FB1A6692CD25}|First.ApiService\\First.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\first.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A2DB95-E5B4-4AA0-B541-FB1A6692CD25}|First.ApiService\\First.ApiService.csproj|solutionrelative:first.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\yarp.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\yarp.gateway\\yarp.gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\yarp.gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\yarp.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64E2FDD-0C15-44DD-B3C8-0D35256D93F6}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\second.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|solutionrelative:second.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\second.apiservice\\second.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|solutionrelative:second.apiservice\\second.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2DB95-E5B4-4AA0-B541-FB1A6692CD25}|First.ApiService\\First.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\first.apiservice\\first.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03A2DB95-E5B4-4AA0-B541-FB1A6692CD25}|First.ApiService\\First.ApiService.csproj|solutionrelative:first.apiservice\\first.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|c:\\users\\thanh\\project\\source-code-sevices-discovery\\before\\service_discovery\\second.apiservice\\second.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8517937-2613-48F7-8097-2BFC00E7934F}|Second.ApiService\\Second.ApiService.csproj|solutionrelative:second.apiservice\\second.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1252049909:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-30T22:14:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "Second.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Program.cs",
+              "RelativeToolTip": "Second.ApiService\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:12:35.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Yarp.Gateway",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Yarp.Gateway.csproj",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Yarp.Gateway.csproj",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Yarp.Gateway.csproj",
+              "RelativeToolTip": "Yarp.Gateway\\Yarp.Gateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T22:09:33.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "Second.ApiService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\appsettings.json",
+              "RelativeToolTip": "Second.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T22:01:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Yarp.Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T22:00:55.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Second.ApiService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Second.ApiService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T22:00:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Second.ApiService",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Second.ApiService.csproj",
+              "RelativeDocumentMoniker": "Second.ApiService\\Second.ApiService.csproj",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Second.ApiService.csproj",
+              "RelativeToolTip": "Second.ApiService\\Second.ApiService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T22:00:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\First.ApiService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "First.ApiService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\First.ApiService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "First.ApiService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T21:59:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\appsettings.json",
+              "RelativeToolTip": "Yarp.Gateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T21:57:57.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Yarp.Proxy.http",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Yarp.Proxy.http",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Yarp.Proxy.http",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Yarp.Proxy.http",
+              "RelativeToolTip": "Yarp.Gateway\\Yarp.Proxy.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-30T21:57:51.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "First.ApiService",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\First.ApiService\\First.ApiService.csproj",
+              "RelativeDocumentMoniker": "First.ApiService\\First.ApiService.csproj",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\First.ApiService\\First.ApiService.csproj",
+              "RelativeToolTip": "First.ApiService\\First.ApiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T21:57:09.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Second.ApiService",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Second.ApiService.csproj",
+              "RelativeDocumentMoniker": "Second.ApiService\\Second.ApiService.csproj",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Second.ApiService\\Second.ApiService.csproj",
+              "RelativeToolTip": "Second.ApiService\\Second.ApiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T21:57:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\Yarp.Gateway\\Program.cs",
+              "RelativeToolTip": "Yarp.Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:56:55.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\First.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "First.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanh\\Project\\source-code-sevices-discovery\\before\\service_discovery\\First.ApiService\\Program.cs",
+              "RelativeToolTip": "First.ApiService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:54:44.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

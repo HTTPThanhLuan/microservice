@@ -1,0 +1,6 @@
+@BaseUrl=http://localhost:5275
+
+
+###Login
+
+GET {{BaseUrl}}/weatherforecast

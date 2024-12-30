@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHhbkC7A1fw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thanh\\Project\\Yarp\\Yarp.Api\\Yarp.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

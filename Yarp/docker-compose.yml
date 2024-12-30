@@ -1,0 +1,18 @@
+services:
+  yarp.gateway:
+    image: ${DOCKER_REGISTRY-}yarpgateway
+    build:
+      context: .
+      dockerfile: Yarp.Gateway/Dockerfile
+
+  yarp.api:
+    image: ${DOCKER_REGISTRY-}yarpapi
+    build:
+      context: .
+      dockerfile: Yarp.Api/Dockerfile
+
+  yarp.api2:
+    image: ${DOCKER_REGISTRY-}yarpapi
+    build:
+      context: .
+      dockerfile: Yarp.Api/Dockerfile

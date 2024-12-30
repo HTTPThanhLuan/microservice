@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jcZmdfp63TwD7xxPUFc+PrsVGO/dFHgmxemKusoKRrA=",
+  "Source": "First.ApiService",
+  "BasePath": "_content/First.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

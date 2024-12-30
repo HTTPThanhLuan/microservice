@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "First.ApiService\\First.ApiService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Second.ApiService\\Second.ApiService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Yarp.Gateway\\Yarp.Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

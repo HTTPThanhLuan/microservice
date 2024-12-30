@@ -1,0 +1,78 @@
+name: dockercompose2439952476214936328
+services:
+  yarp.api:
+    build:
+      context: C:\Users\Thanh\Project\Yarp
+      dockerfile: Yarp.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: yarpapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8082"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "8083"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Thanh\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Thanh\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  yarp.api2:
+    build:
+      context: C:\Users\Thanh\Project\Yarp
+      dockerfile: Yarp.Api/Dockerfile
+    image: yarpapi
+    networks:
+      default: null
+  yarp.gateway:
+    build:
+      context: C:\Users\Thanh\Project\Yarp
+      dockerfile: Yarp.Gateway/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: yarpgateway
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "8081"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Thanh\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Thanh\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose2439952476214936328_default
